@@ -30,4 +30,5 @@ python client.py client.cfg
 
 ## Links
 [FIX protocol](https://www.fixtrading.org/standards/)
+
 [Configuration for quickfix](http://www.quickfixengine.org/quickfix/doc/html/configuration.html)
